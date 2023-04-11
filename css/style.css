@@ -53,3 +53,17 @@ body {
 
 
 }
+
+.nav-bar {
+
+    height: 50px;
+    background-color: rgb(34, 34, 34);
+    
+    
+    position: fixed;
+   left: 0;
+   bottom: 1%;
+   width: 100%;
+  
+  text-align: center;
+}
