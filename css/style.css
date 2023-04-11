@@ -30,6 +30,26 @@ body {
 .user-box {
     height: 132px;
     width: calc(95% / 7);
-    background-color: blue;
+    background-image: url(https://picsum.photos/132/);
     margin-bottom: 10px;
+   background-size: cover;
+}
+
+.position-box {
+    position: relative;
+}
+
+.position-user {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.user-name {
+
+    height: 20px;
+    width: 80%;
+    background-color: rgb(160, 180, 205, 0.5);
+
+
 }
