@@ -6,12 +6,15 @@
     box-sizing: border-box;
 }
 
-.flex {
+.flex-spaceb {
 
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     
+}
+.flex {
+    display: flex;
 }
 
 .container {
@@ -66,4 +69,10 @@ body {
    width: 100%;
   
   text-align: center;
+  justify-content: space-between;
+}
+
+i {
+    margin-right: 20px;
+    vertical-align: middle;
 }
