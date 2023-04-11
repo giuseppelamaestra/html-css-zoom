@@ -18,6 +18,7 @@
 
     max-width: 1200px;
     margin: 0 auto;
+    padding-top: 100px;
 }
 
 body {
@@ -27,8 +28,8 @@ body {
 }
 
 .user-box {
-    height: 160px;
-    width: calc(90% / 7);
+    height: 132px;
+    width: calc(95% / 7);
     background-color: blue;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
